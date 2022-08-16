@@ -29,13 +29,13 @@ Complementaria:
 
 ### Semana 2. Clustering Particional
 
-### Semana 3. Clusering basado en densidad
+### Semana 3. Clustering basado en densidad
 
 ### Semana 4. Clustering Jerárquico
 
 ### Semana 5. Clustering Difuso
 
-### Semana 6. Evalucion de Clusters
+### Semana 6. Evaluación de Clusters
 
 ### Semana 7. Preguntas y respuestas Informe y Control
 
